@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Morenike Olasope
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning software engineering
+- 🌱 I’m currently learning frontend web development
 - 💞️ I’m looking to collaborate on any training or project
 - 📫 How to reach me - olasopemorenike@gmail.com
 <!---
